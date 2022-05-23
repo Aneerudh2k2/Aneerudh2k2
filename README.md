@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+React+Native+developer;%E2%9C%93+Blockchain+Enthusiast;%E2%9C%93+JavaScript+developer;%E2%9C%93+Cryptocurrency+and+Stock+market+Maximalist)](https://git.io/typing-svg)
 
 <p>
-<a href="https://srivathsan.hashnode.dev/">
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAneerudh2k2&longCache=true">
-</a>
 <p>
   
 - 🔭 I’m currently working on improving my coding skills
@@ -27,9 +25,9 @@
 <a href="mailto:aneerudh@yahoo.com">
   <img align="center" alt="Aneerudh | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://opensea.io/srivathsanvenkateswaran">
+<!-- <a href="https://opensea.io/srivathsanvenkateswaran">
 <img align="center" alt="srivathsanvenkateswaran | Blog" width="30px" src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" />
-</a> 
+</a>  -->
 <p>
   
 ## Skills 🚀
